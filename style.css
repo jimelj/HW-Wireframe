@@ -2,6 +2,7 @@
     text-align: center;
     font-size: 18px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
 }
 
 body {
@@ -39,12 +40,13 @@ article {
     /*margin: 5px;*/
     margin-bottom: 10px;
     padding: 10px;
+    color: #ebebeb;
 }
 
 aside {
     background-color: #ebebeb;
     width: 445px;
-    height: 255px;
+    height: 265px;
     float: left;
 }
 
@@ -58,4 +60,8 @@ footer {
     background-color: #ebebeb;
     margin: 10px;
     padding: 10px;
+}
+
+.dColor {
+    color: #ebebeb;
 }
